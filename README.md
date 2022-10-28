@@ -6,7 +6,7 @@ Simple Closet Management System with Excel, VBA
 - Easily checking inventories of equipments.
 * While I was working at a startup, there's no system for managing company's equipments inventory.  
 All the managements were made by hand so that it could not be tracked or managed efficiently.  
-The company had no plan to buy a inventory management software which could solve this problem, so I made it by Excel.  
+The company had no plan to buy a inventory management software which could solve this problem, so I designed and developed by Excel & VBA.  
 
 ## used Technology
 - Excel
