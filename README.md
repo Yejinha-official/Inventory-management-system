@@ -1,5 +1,5 @@
 # simpleClosetManagement
-Simple Closet Management System with TDD 
+Simple Closet Management System with Excel, VBA
 
 ## Purpose
 - Tracking receiving and forwarding company's equipments history (ex. laptops , monitors .. )
